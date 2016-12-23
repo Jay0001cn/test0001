@@ -1,0 +1,21 @@
+{
+  "name": "test0001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cordova.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "nativescript": {
+    "id": "org.nativescript.test0001",
+    "tns-android": {
+      "version": "2.5.0-next-2016-11-07-1357"
+    }
+  },
+  "dependencies": {
+    "nativescript-texttospeech": "^1.3.1",
+    "tns-core-modules": "2.5.0-2016-10-27-4579"
+  }
+}
